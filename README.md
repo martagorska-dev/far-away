@@ -18,10 +18,10 @@ Pack your suitcase for a trip.
 
 
 ## Features
-- Add an item to travel list 📝
-- Mark an item as packed ✅
-- Delete an item from travel list ❌
-- Sort items by input order, by description or by packed status 🔁
+- Adding an item to travel list 📝
+- Marking an item as packed ✅
+- Deleting an item from travel list ❌
+- Sorting items by input order, by description or by packed status 🔁
 - Progress bar showing how many items are left to pack 🪫
 - Clear list 🧹
   
@@ -55,7 +55,7 @@ Pack your suitcase for a trip.
 ## Usage
 - Select the number of items you want to add on your travel list 🔢
 - Enter the name of your item 🖊️
-- Click Add button 💻
+- Click "Add button"
 
 
 ## Acknowledgements
